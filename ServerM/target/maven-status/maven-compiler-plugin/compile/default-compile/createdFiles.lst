@@ -1,0 +1,5 @@
+com\mycompany\serverm\PersonService.class
+com\mycompany\serverm\Person.class
+com\mycompany\serverm\PersonController.class
+com\mycompany\serverm\WebAppInitializer.class
+com\mycompany\serverm\AppConfig.class
